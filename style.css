@@ -1,0 +1,42 @@
+h1{
+
+    font-family: "Kablammo", system-ui;
+    font-weight: 100;
+    font-size: 40px;
+    font-style: italic;
+    background-color: blue;
+    display: inline;
+}
+span{
+    background-color: brown;
+    display: block;
+}
+p{
+color: green;
+font-weight: 700;
+font-size: 15px;
+}
+div{
+    height: 400px;
+    width: 250px;
+    background-color: rgb(207, 207, 207);
+    /* margin-top: 150px;
+    margin-bottom:50px ;
+    margin-left: 300px; */
+    /* margin: 150px 0px 50px 300px; */
+    margin:50px ;
+    padding-top: 50px;
+    padding: 20px 10px 20px 10px;
+    padding: 40px;
+    box-shadow: 5px 5px 20px gray;
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 200px;
+    height: 35px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-family: "Bebas Neue", sans-serif;
+    
+}
